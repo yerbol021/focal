@@ -7,3 +7,4 @@ function sumToOne(n) {
 }
 
 console.log(sumToOne(2));
+// better to write some more information
